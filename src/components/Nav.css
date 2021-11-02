@@ -1,0 +1,18 @@
+nav {
+  -moz-box-shadow: 0 0 3px #ccc;
+  -webkit-box-shadow: 0 0 3px #ccc;
+  box-shadow: 0 0 19px #1e1a18;
+  background-color: rgb(65, 131, 148);
+  height: 10ch;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+.navitems {
+  list-style: none;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
